@@ -12,8 +12,8 @@ var sixtyPercentScrollPercentage = 0.0;
 var babies = document.getElementById('babies-wrapper');
 var baby_counter = document.getElementById('baby-counter');
 
-var thousand = new Intl.NumberFormat('en-US')
-var money = new Intl.NumberFormat('en-US', {
+var thousand = new Intl.NumberFormat('nl-NL')
+var money = new Intl.NumberFormat('nl-NL', {
   style: 'currency',
   currency: 'USD',
   minimumFractionDigits: 0,
@@ -62,7 +62,7 @@ function generate_sixty_percent() {
 generate_sixty_percent();
 
 sixtyPercent.addEventListener('scroll', function(){
-  let newScroll = ((sixtyPercent.scrollTop / sixtyPercent.scrollHeight) * 60).toFixed(1);
+  let newScroll = ((sixtyPercent.scrollTop / sixtyPercent.scrollHeight) * 60).toFixed(1).replace('.', ',');
   if (sixtyPercentScrollPercentage !== newScroll) {
     sixtyPercentScrollPercentage = newScroll;
     sixtyPercentIndicator.innerHTML = newScroll + '%';
@@ -79,7 +79,7 @@ function update_wealth_counter() {
   if (bezos_viewable()) {
     if (bezos_counter_viewable()) {
       let wealth = (window.scrollX - bezos.offsetLeft + 175) * 500000;
-      bezos_counter.innerHTML = (wealth < 171000000000) ? money.format(wealth) : "$171,000,000,000";
+      bezos_counter.innerHTML = (wealth < 171000000000) ? money.format(wealth) : "$171.000.000.000";
     }
     else {
       bezos_counter.innerHTML = '';
