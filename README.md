@@ -1,26 +1,10 @@
-# About
+# Over
 
-Source code for https://mkorostoff.github.io/1-pixel-wealth/
+Dit project is een directe vertaling van [deze website](https://mkorostoff.github.io/1-pixel-wealth/). Voor de originele broncode, [klik hier](https://github.com/MKorostoff/1-pixel-wealth/)
 
-# Translations
+# Een aantal bronnen
 
-This page has been translated by volunteers into eight languages that I know of. I am not directly involved with any of these translations, and I don't speak any of these languages, so I can't promise they are accurate. If you'd like to create a translation, see [instructions here](https://github.com/MKorostoff/1-pixel-wealth/issues/8#issuecomment-622964168).  Once you've finished, provide a link in the [issue queue](https://github.com/MKorostoff/1-pixel-wealth/issues/new) and I'll update this readme.
-
-- [Spanish/Español 1](https://cjbarroso.com/1-pixel-wealth)
-- [Spanish/Español 2](https://jhoon.github.io/1-pixel-wealth/es)
-- [Spanish/Español 3](https://hmijail.github.io/1-pixel-wealth/es)
-- [Spanish/Español 4](https://jsandovalc.github.io/1-pixel-wealth)
-- [Portuguese/Português](https://flpms.github.io/1-pixel-wealth)
-- [German/Deutsch](https://eattherichtextformat.github.io/1-pixel-wealth/de/)
-- [Russian/русский](https://aensidhe.ru/1-pixel-wealth/)
-- [Romanian/Română](https://andreicristianpetcu.github.io/1-pixel-wealth)
-- [Chinese/中文](https://doodledu.github.io/1-pixel-wealth)
-- [Czech/čeština](https://kerray.github.io/1-pixel-bohatstvi)
-- [French/Française](https://tgluis.github.io/1-pixel-wealth/)
-
-# Select Sources
-
-_[A note on the role of citations in this project](https://github.com/MKorostoff/1-pixel-wealth/issues/40#issuecomment-648932718)_
+Deze bronnen zijn verzameld door de originele auteur van deze website. Ze zijn allemaal in het Engels. Benieuwd naar de uitleg van de auteur over het gebruik van bronnen in dit project? [klik hier](https://github.com/MKorostoff/1-pixel-wealth/issues/40#issuecomment-648932718).
 
 - [Wealth of richest people](https://www.forbes.com/forbes-400/#15b032877e2f)
 - [Perceptions of inequality](https://www.ncbi.nlm.nih.gov/pubmed/26162108)
@@ -35,9 +19,11 @@ _[A note on the role of citations in this project](https://github.com/MKorostoff
 - [Cost of coronavirus testing](https://www.cnbc.com/2020/04/21/coronavirus-tests-rockefeller-plan-would-screen-millions-for-covid-19.html)
 - [Efficacy of cash transfers](https://www.givedirectly.org/research-on-cash-transfers/)
 
-# About the Author
-One pixel wealth was created by [Matt Korostoff](https://mkorostoff.github.io/)
+# Over de auteur
+
+One pixel wealth is oorspronkelijk ontwikkeld door [Matt Korostoff](https://mkorostoff.github.io/).
+Deze vertaling is gemaakt door [Job Veldhuis](https://baukefrederik.me).
 
 # Against Malaria
 
-Please consider making a donation to the [Against Malaria Foundation](https://www.againstmalaria.com/). They are not affiliated with this project in any way, I just really like them.
+In de originele broncode zit een verzoek om te doneren aan de [Against Malaria Foundation](https://www.againstmalaria.com/). Ze zijn niet gelieerd aan dit project, maar de stichting is dierbaar voor Matt Korostoff, oorspronkelijke auteur.
